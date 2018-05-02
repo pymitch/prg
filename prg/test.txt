@@ -1,0 +1,265 @@
+Geom Title=Revised4_geo-ref_lidar_XS-stations_elev
+Program Version=5.03
+Viewing Rectangle= 6731475.12786805 , 6805896.87786805 , 1985451.33236516 , 1946034.70736516 
+
+Junct Name=J01             
+Junct Desc=, 0 , 0 ,-1 ,0
+Junct X Y & Text X Y=6765884.5,1968908.375,6765884.5,1968908.375
+Up River,Reach=Capital Center  ,Reach-1         
+Up River,Reach=UpperMorrison   ,Reach-1         
+Dn River,Reach=Main Drain      ,Reach-2         
+Junc L&A=125,0
+Junc L&A=160,0
+
+Junct Name=J02             
+Junct Desc=, 0 , 0 ,-1 ,0
+Junct X Y & Text X Y=6766147.5,1964882.625,6766147.5,1964882.625
+Up River,Reach=Main Drain      ,Reach-2         
+Up River,Reach=TracyRavine     ,Reach-1         
+Dn River,Reach=Main Drain      ,Reach-3         
+Junc L&A=50,0
+Junc L&A=50,0
+
+River Reach=MatherWestDrain ,Reach-1         
+Reach XY= 23 
+      6761494.31      1969885.98  6760100.748456 1969037.6513639
+ 6759712.0750215 1968799.9497396 6759617.6739636 1968739.1857535
+ 6759210.7728745  1968228.118206 6759012.0262248  1967976.858866
+ 6758802.7868139 1967710.5398449 6758566.2416833    1967480.5052
+ 6758492.4570539  1967425.166728 6758379.6098387 1967323.1702128
+  6758323.186067 1967292.7880557 6757886.9881205 1967125.6876681
+ 6757095.9726422 1966817.5278514 6757051.4848703 1966775.2100226
+ 6757017.8474704 1966719.8715506 6757012.4632948 1966626.8490989
+ 6757055.8250847 1966043.8732307 6757086.2069137 1965603.3350698
+ 6757170.2608794 1964525.5895219 6757278.2642724 1963166.2690778
+ 6757371.1026694 1963060.1928464 6757464.8528099 1962940.4010912
+ 6759256.4998172  1960506.460421
+Rch Text X Y=6759889.6862969,1966904.8536282
+Reverse River Text= 0 
+
+Type RM Length L Ch R = 1 ,1.745*  ,47.31,47.31,47.31
+Node Last Edited Time=Apr/25/2018 10:54:42
+#Sta/Elev= 15 
+    9.23  140.35   22.44  139.98    58.3  139.36   80.94  138.88  107.36  138.32
+  115.74  138.11  133.94   134.3  142.38  132.67  159.99  132.67  164.57  133.65
+  196.48  138.64  213.29     139  226.58  139.31  248.75  139.68  257.62  139.85
+#Mann= 3 , 0 , 0 
+    9.23    .052       0  115.74    .041       0  196.48    .052       0
+Bank Sta=115.74,196.48
+XS Rating Curve= 0 ,0
+XS HTab Starting El and Incr=133.17,0.36, 20 
+XS HTab Horizontal Distribution= 5 , 5 , 5 
+Exp/Cntr=0.3,0.1
+
+Type RM Length L Ch R = 1 ,1.736*  ,47.31,47.31,47.31
+Node Last Edited Time=Apr/25/2018 10:54:42
+#Sta/Elev= 15 
+   12.31  140.06    27.7  139.62   69.47  138.97   95.85  138.44  126.62  137.81
+  136.38  137.58  153.86  133.92  161.97  132.41  177.82  132.41   182.5  133.44
+  215.05  138.11  233.96  138.54  248.93  138.92  273.87  139.36  283.85  139.56
+#Mann= 3 , 0 , 0 
+   12.31    .053       0  136.38    .043       0  215.05    .053       0
+Bank Sta=136.38,215.05
+XS Rating Curve= 0 ,0
+XS HTab Starting El and Incr=132.91,0.36, 20 
+XS HTab Horizontal Distribution= 5 , 5 , 5 
+Exp/Cntr=0.3,0.1
+
+Type RM Length L Ch R = 1 ,1.727*  ,47.31,47.31,47.31
+Node Last Edited Time=Apr/25/2018 10:54:42
+#Sta/Elev= 15 
+   15.38  139.77   32.95  139.27   80.64  138.57  110.75  137.99  145.89   137.3
+  157.03  137.04  173.79  133.54  181.56  132.16  195.65  132.16  200.42  133.22
+  233.61  137.58  254.63  138.08  271.27  138.54     299  139.03  310.09  139.27
+#Mann= 3 , 0 , 0 
+   15.38    .054       0  157.03    .045       0  233.61    .054       0
+Bank Sta=157.03,233.61
+XS Rating Curve= 0 ,0
+XS HTab Starting El and Incr=132.66,0.36, 20 
+XS HTab Horizontal Distribution= 5 , 5 , 5 
+Exp/Cntr=0.3,0.1
+
+Type RM Length L Ch R = 1 ,1.718*  ,47.31,47.31,47.31
+Node Last Edited Time=Apr/25/2018 10:54:42
+#Sta/Elev= 15 
+   18.46  139.48   38.21  138.91   91.81  138.18  125.66  137.55  165.15  136.79
+  177.68   136.5  193.72  133.17  201.15  131.91  213.48  131.91  218.34  133.01
+  252.17  137.05   275.3  137.63  293.61  138.15  324.12  138.71  336.33  138.98
+#Mann= 3 , 0 , 0 
+   18.46    .055       0  177.68    .047       0  252.17    .055       0
+Bank Sta=177.68,252.17
+XS Rating Curve= 0 ,0
+XS HTab Starting El and Incr=132.41,0.35, 20 
+XS HTab Horizontal Distribution= 5 , 5 , 5 
+Exp/Cntr=0.3,0.1
+
+Type RM Length L Ch R = 1 ,1.709*  ,47.31,47.31,47.31
+Node Last Edited Time=Apr/25/2018 10:54:42
+#Sta/Elev= 15 
+   21.54  139.18   43.46  138.56  102.98  137.79  140.56   137.1  184.42  136.28
+  198.32  135.96  213.64  132.79  220.75  131.65  231.32  131.65  236.26   132.8
+  270.73  136.51  295.97  137.17  315.95  137.76  349.25  138.38  362.57  138.68
+#Mann= 3 , 0 , 0 
+   21.54    .055       0  198.32    .048       0  270.73    .055       0
+Bank Sta=198.32,270.73
+XS Rating Curve= 0 ,0
+XS HTab Starting El and Incr=132.15,0.35, 20 
+XS HTab Horizontal Distribution= 5 , 5 , 5      
+Junc L&A=80,0
+
+Type RM Length L Ch R = 1 ,2.349   ,5,5,5
+BEGIN DESCRIPTION:
+REPEATED X-SECT 2.348
+
+
+END DESCRIPTION:
+XS GIS Cut Line=5
+6761826.41576314 1969259.86767926761462.429801441969857.79260734
+6761458.529951851969864.198945866761454.630102261969870.60528437
+6761306.435817861970114.04614797
+Node Last Edited Time=Apr/25/2018 13:39:31
+#Sta/Elev= 432 
+       095.51334.397675695.534311.22990395.464453.50402295.211084.056162 95.1875
+5.778141 94.93017.71464894.6076710.3263894.08955 12.600593.7018114.6167193.46295
+15.03162 93.434315.67718 93.345617.1487493.1040518.6901193.0204919.4228692.99955
+20.6265592.6674121.6969892.2941322.3485992.1564326.0070892.57412 26.636492.57762
+28.5193392.6419729.6655692.7520130.7934592.6724432.6462592.3380333.3240592.16635
+35.3416991.9202736.9825491.6807737.6158191.69112 38.6561 91.736740.6410291.87529
+42.1640592.0791944.2995192.4885746.71229 92.392347.9579992.46656 48.986492.29947
+50.6757991.9205251.2605291.8532151.6164891.7657653.5346591.9611555.2749792.09948
+55.8087692.2581756.6856492.6574458.93345 93.5582  60.357 93.630162.6311293.68767
+62.69548 93.687566.2504393.0959868.7053392.2890969.4534892.0937569.9089191.99361
+ 71.727692.26952 73.5674 92.886674.00172 92.905474.7151892.9019677.2258892.85722
+78.5499692.7544680.8240792.4227383.0981992.2394384.5428592.0849285.3723192.05643
+86.7348791.8317587.64643 91.747888.2013491.6471389.9205591.6656592.19467 91.7696
+92.7447291.7822694.4687991.9967995.51831 92.2067 96.742992.28426 99.176892.25776
+99.8337592.30534101.291192.46449102.835392.39969103.565392.49688104.764492.59887
+105.839492.72663106.493892.75044108.113592.78865110.152392.70044110.387692.72469
+824.461189.31745 825.94689.34503826.7352 89.3166827.215589.33231829.009389.32964
+831.955989.37852833.557589.32499835.831789.29031840.379989.33133841.849589.37309
+843.975689.40625 852.82589.40625856.298789.49763858.5728 89.5201860.141989.56468
+ 868.015 89.6875872.217589.84517874.7758 89.8125880.0347 89.8125882.0928 89.8446
+883.588189.88709886.044689.90625890.410589.98717892.0544      90898.0643      90
+900.385390.03621901.781190.04009904.0437      90906.329390.01759907.7022      90
+910.877690.00619913.151789.97705916.0938      90918.6777      90919.974190.01661
+922.336290.09375924.522390.11262925.994690.15445926.796490.20119929.070690.39629
+929.653190.43027933.311690.48734934.1234 90.4792935.892990.42005936.970190.40625
+ 946.14390.40625947.945690.43437949.5376 90.4796951.6041    90.5955.2625    90.5
+  956.3690.48594 958.921    90.5965.456490.32252 966.238 90.3125970.1824 90.3125
+976.192390.40625977.213490.39032980.871990.21516982.2021 90.1875983.649490.20255
+985.9235 90.2887988.1889 90.3125990.4717  90.211991.8474 90.1875  995.02 90.1958
+999.1644 90.2903    100090.26012
+#Mann= 3 , 0 , 0 
+       0     .05       0196.8042    .035       0929.6531     .05       0
+Bank Sta=196.8042,929.6531
+XS Rating Curve= 0 ,0
+XS HTab Starting El and Incr=88.31459,0.36, 20 
+XS HTab Horizontal Distribution= 5 , 5 , 5 
+Exp/Cntr=0.3,0.1
+
+Storage Area=VOLUP           ,6759192.2326556,1956295.8815819
+Storage Area Surface Line= 13 
+ 6755247.5032264 1956720.7553145                
+ 6757092.6487086 1958196.8717003                
+ 6758732.7780262 1958668.4088791                
+ 6760926.4509884 1958504.3959473                
+ 6764022.1950753 1957684.3312886                
+ 6762628.0851554 1956474.7359169                
+ 6761746.5156472 1956331.2246016                
+ 6761705.5124143 1955224.1373122                
+ 6760536.9202755 1953912.0338582                
+ 6757092.6487086  1953686.516077                
+ 6755350.0113087 1954404.0726534                
+ 6754509.4450335 1955244.6389287                
+ 6755247.5032264 1956720.7553145                
+Storage Area Type= 1 
+Storage Area Area=50
+Storage Area Min Elev=20
+Storage Area Vol Elev= 14 
+      20       0      22     6.1      24    18.3      26    42.5      28   142.2
+      30   369.7      32   896.5      34  1614.2      36  2493.5      38    3488
+      40    4711      42    6047      50   11970      60   20124
+Storage Area Is2D=0
+Storage Area Point Generation Data=0,0,,
+Storage Area 2D Points= 0 
+Storage Area 2D PointsPerimeterTime=05Apr2018 09:33:51
+Storage Area Mannings=0.06
+2D Cell Volume Filter Tolerance=0.01
+2D Face Profile Filter Tolerance=0.01
+2D Face Area Elevation Profile Filter Tolerance=0.01
+2D Face Area Elevation Conveyance Ratio=0.02
+
+Connection=LakeOutlet      ,6773499.5758791,1965330.4818559
+Connection Desc=
+Connection Line=4
+ 6773522.6749772  1965318.724477 6773500.8965135 1965331.7915553
+  6773492.185128  1965336.147248  6773474.762357  1965336.147248
+Connection Last Edited Time=Apr/23/2018 16:33:59
+Connection Up SA=Mather Lake     
+Connection Dn SA=US-end-Mtrib    
+Conn Routing Type= 3 
+Conn Use RC Family=True
+Conn OverFlow Method 2D=True
+Conn Weir WD=25
+Conn Weir Coef=3
+Conn Weir Is Ogee= 0 
+Conn Simple Spill Pos Coef=0.05
+Conn Simple Spill Neg Coef=0.05
+Conn Weir SE= 6 
+       0     142     560     142   566.4     140   606.4     140   612.8     142
+     800     142
+Connection Culv=1,3,,40,0.024,0.5,1,1,1,135,134.9, 5 ,Culvert #1  , 0 ,
+     575     575     579     579     583     583     587     587     591     591
+Conn Culv Bottom n=0.024
+Connection Culv=1,2.5,,40,0.015,0.5,1,1,1,135,134.9, 2 ,Culvert #2  , 0 ,
+     595     595     599     599
+Conn Culv Bottom n=0.015
+Conn HTab HWMax=150
+
+Pump Station=Zinfandel_Pump  ,6766913.5229438,1969292.5346702,,,6766913.5229438,1969292.5346702
+Pump Station From=                ,                ,        ,Detention Basin ,
+Pump Station To=UpperMorrison   ,Reach-1         ,3.93    ,                ,
+Pump Station Reference=                ,                ,        ,                ,
+Pump Station Group=Group #1        ,False,,
+Pump Station Group Pump=Pump #1         ,67,66.5
+Pump Station Group HQ= 20 
+    66.5      45      67      45      68      45      69      45      70      45
+      71      45      72      45      73      45      74      45      75      45
+      76      45      77      45      78      45      79      45      80      45
+      81      45      82      45      83      45      84      45      85      45
+
+LCMann Time=Dec/30/1899 00:00:00
+LCMann Region Time=Dec/30/1899 00:00:00
+LCMann Table=0
+Chan Stop Cuts=-1 
+
+
+
+Geom Raster=ASPEN-IMAGE.JPG,False,image,, 0 
+Geom Raster=MATHER-IMAGE.JPG,False,image,, 0 
+Use User Specified Reach Order=0
+User Specified Reach Order=Mather Chute    ,Mather Chute    
+User Specified Reach Order=Morrison Creek  ,Reach-6         
+User Specified Reach Order=Morrison Creek  ,Reach-5         
+User Specified Reach Order=Morrison Creek  ,Reach-4         
+User Specified Reach Order=Morrison Creek  ,Reach-3         
+User Specified Reach Order=Morrison Creek  ,Reach-1         
+User Specified Reach Order=MatherLakeTri   ,Reach1          
+User Specified Reach Order=Main Drain      ,Reach-4         
+User Specified Reach Order=Main Drain      ,Reach-3         
+User Specified Reach Order=Main Drain      ,Reach-2         
+User Specified Reach Order=Capital Center  ,Reach-1         
+User Specified Reach Order=UpperMorrison   ,Reach-1         
+User Specified Reach Order=TracyRavine     ,Reach-1         
+User Specified Reach Order=Todd Cr Trib    ,Reach 1         
+User Specified Reach Order=Morrison Trib   ,Reach-1         
+User Specified Reach Order=MatherWestDrain ,Reach-1         
+User Specified Reach Order=Todd Creek      ,Reach-3         
+User Specified Reach Order=Todd Creek      ,Reach-2         
+User Specified Reach Order=Todd Creek      ,Reach-1         
+GIS Units=
+GIS DTM Type=TIN
+GIS DTM=\
+GIS Stream Layer=\River
+GIS Cross Section Layer=\XSCutLines
+GIS Map Projection=
